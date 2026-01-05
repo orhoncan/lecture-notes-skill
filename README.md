@@ -2,7 +2,7 @@
 
 A Claude skill for generating undergraduate economics lecture notes with mathematical foundations, daily-life examples, and practice problems. Optimized for Obsidian.
 
-Lisans düzeyinde ekonomi ders notları oluşturmak için bir Claude skill'i. Matematiksel altyapı, günlük hayat örnekleri ve alıştırmalar içerir. Obsidian için optimize edilmiştir.
+Lisans düzeyinde iktisat ders notları oluşturmak için bir Claude skill'i. Matematiksel altyapı, günlük hayat örnekleri ve alıştırmalar içerir. Obsidian için optimize edilmiştir.
 
 ---
 
